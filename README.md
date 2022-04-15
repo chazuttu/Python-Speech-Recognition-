@@ -1,5 +1,5 @@
 # Python-Speech-Recognition-
-This repository of basic examples on performing Speech Recognitionin Python using Google Speech Recognition Engine.
+ Basic example on performing Speech Recognition in Python using Google Speech Recognition Engine.
 # Dependancies
 
 # Linux users
